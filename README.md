@@ -40,10 +40,7 @@ existing Git repository with the following command:
 git clone https://github.com/alp55/IoT-Windows-10-Attack-Detection-AI.git
 ```
 
-
-
-https://github.com/alp55/IoT-Windows-10-Attack-Detection-AI/assets/163883330/f411dd78-9bd0-45b7-9c6c-734f66985156
-
+https://github.com/alp55/IoT-Windows-10-Attack-Detection-AI/assets/163883330/43c57eee-b140-4f7f-9184-cfe7416ce284
 
 ## Support
 
