@@ -37,10 +37,7 @@ Following these steps, the performance of each model was assessed, and the resul
 existing Git repository with the following command:
 
 ```
-cd existing_repo
-git remote add origin http://gitlab.koddeposu.gov.tr/alperen-uluta-sanem-sakarya-ortak-proje/iot-windows-10-attack-detection.git
-git branch -M main
-git push -uf origin main
+git clone https://github.com/alp55/IoT-Windows-10-Attack-Detection-AI.git
 ```
 
 
