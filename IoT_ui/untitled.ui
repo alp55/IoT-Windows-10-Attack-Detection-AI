@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1479</width>
+    <height>881</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(66, 66, 66);</string>
+  </property>
+  <widget class="QPushButton" name="baslat">
+   <property name="geometry">
+    <rect>
+     <x>1120</x>
+     <y>40</y>
+     <width>341</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>MS Sans Serif</family>
+     <pointsize>30</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(159, 0, 0);
+color: rgb(255, 255, 255);
+border-radius: 10px;
+</string>
+   </property>
+   <property name="text">
+    <string>ANALİZE BAŞLA</string>
+   </property>
+  </widget>
+  <widget class="QTableWidget" name="veriaktar">
+   <property name="geometry">
+    <rect>
+     <x>25</x>
+     <y>121</y>
+     <width>1431</width>
+     <height>741</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
